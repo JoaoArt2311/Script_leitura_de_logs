@@ -3,8 +3,10 @@
 
 LOG_DIR="../myapp/logs"
 ARQUIVO_DIR="../myapp/logs-processados"
+TEMP_DIR="../myapp/logs-temp"
 
 mkdir -p $ARQUIVO_DIR
+mkdir -p $TEM_DIR
 
 
 echo "Verificando logs no diretorio $LOG_DIR"
@@ -45,3 +47,12 @@ do
 done
 
 sort -k2 "${ARQUIVO_DIR}/logs_combinados_$(date +%F).log" -o "${ARQUIVO_DIR}/logs_combinados_$(date +%F).log"
+
+
+mv "${ARQUIVO_DIR}/logs_combinados_$(date +%F).log" "$TEMP_DIR/"
+
+mv "${ARQUIVO_DIR}/log_stats_$(date +%F).txt" "$TEMP_DIR/"
+
+tar -czf "${ARQUIVO_DIR}/logs_$(date +%F).tar.gz" -C "$TEMP_DIR" .
+
+rm -r "$TEMP_DIR"
