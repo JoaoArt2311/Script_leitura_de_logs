@@ -10,6 +10,8 @@
   <img src="https://github.com/JoaoArt2311/Script_leitura_de_logs/blob/main/img/script-linux.jpeg" width="450px">
 </p>
 
+<p align="center">Este e a imagem do nosso script completo e finalizado</p>
+
 <p>Este projeto consistiu na criação de um script para leitura e análise de arquivos de log, desenvolvido para ser executado diretamente no terminal Linux. O objetivo principal foi facilitar a visualização, interpretação e acompanhamento de informações relevantes registradas em logs do sistema ou de aplicações.
 
 O desenvolvimento do script foi realizado utilizando o editor de texto Vim, explorando seus recursos de edição eficiente em ambiente terminal. Durante a criação, foram aplicados conceitos fundamentais de linha de comando, manipulação de arquivos e automação de tarefas, reforçando boas práticas no uso de sistemas baseados em Unix/Linux.
