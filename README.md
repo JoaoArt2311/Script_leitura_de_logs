@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/JoaoArt2311/Script_leitura_de_logs/blob/main/img/script-linux.jpeg">
+  <img src="https://github.com/JoaoArt2311/Script_leitura_de_logs/blob/main/img/script-linux.jpeg" width="450px">
 </p>
 
 <p>Este projeto consistiu na criação de um script para leitura e análise de arquivos de log, desenvolvido para ser executado diretamente no terminal Linux. O objetivo principal foi facilitar a visualização, interpretação e acompanhamento de informações relevantes registradas em logs do sistema ou de aplicações.
