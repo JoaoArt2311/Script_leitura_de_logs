@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">Este e a imagem do nosso script completo e finalizado</p>
+<br>
+<br>
 
 <p>Este projeto consistiu na criação de um script para leitura e análise de arquivos de log, desenvolvido para ser executado diretamente no terminal Linux. O objetivo principal foi facilitar a visualização, interpretação e acompanhamento de informações relevantes registradas em logs do sistema ou de aplicações.
 
