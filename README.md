@@ -20,13 +20,13 @@ O script permite ao usuário acessar rapidamente informações importantes dos l
 
 Além do aspecto funcional, o projeto também teve como foco o aprendizado prático, fortalecendo habilidades em:
 
-Uso do terminal Linux
+* Uso do terminal Linux
 
-Edição de arquivos com Vim
+* Edição de arquivos com Vim
 
-Criação de scripts para automação
+* Criação de scripts para automação
 
-Leitura e interpretação de logs
+* Leitura e interpretação de logs
 
 Este projeto demonstra a importância da automação no ambiente Linux e evidencia como ferramentas simples, quando bem utilizadas, podem gerar soluções eficientes para problemas do dia a dia em infraestrutura e desenvolvimento.</p>
 
