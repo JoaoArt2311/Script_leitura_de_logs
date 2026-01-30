@@ -2,7 +2,7 @@
 <img src="https://github.com/JoaoArt2311/Script_leitura_de_logs/blob/main/img/script-linux.png">
 </p>
 
-# Script leitura de logs
+<h1 align="center"> Script leitura de logs </h1>
 <p> Neste projeto, aprendi a criar scripts no Linux e gerenciar permissões e grupos. Também aprendi a realizar buscas, usar filtros em arquivos, ordenar, remover duplicatas e comparar informações de arquivos. Além disso, extrair dados de arquivos de texto utilizando a contagem de letras e palavras, e concatenar arquivos. </p>
 <br>
 
